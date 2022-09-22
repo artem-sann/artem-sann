@@ -1,6 +1,7 @@
-### Hi there! I'm Artem Sannikov👋
+<h1 align="center">Hi there, I'm <a href="https://vk.com/artem_sann" target="_blank">Artem Sannikov</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Embedded+developer+Robotic+engineer)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 <!--
