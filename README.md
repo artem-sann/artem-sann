@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/artem_sann" target="_blank">Artem Sannikov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233f7c&lines=Embedded+developer+Robotic+engineer+BMSTU+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%1c3263&lines=Embedded+developer+Robotic+engineer+BMSTU+student)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 <!--
