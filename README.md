@@ -1,5 +1,7 @@
 ### Hi there! I'm Artem Sannikov👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 <!--
 **artem-sann/artem-sann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
