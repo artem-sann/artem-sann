@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=4000&pause=3000&color=0A4F79&background=FCBE3300&center=true&width=700&height=70&lines=Embedded+developer%2C+Robotic+engineer%2C+BMSTU+student)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=artem-sann)
 <!--
 **artem-sann/artem-sann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
